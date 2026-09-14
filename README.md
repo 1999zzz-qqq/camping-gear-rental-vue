@@ -154,6 +154,6 @@ npm run type-check`
 ## 配套后端
 后端为 Django + Django REST Framework + MySQL（JWT 认证），需先启动后端服务并执行数据库迁移，前端接口方可正常使用。
 ## 后端仓库地址
-[后端仓库](https://github.com/1999-zzz-qqq/Camping_gear_rental)
-## 前端仓库地址
-[前端仓库](https://github.com/1999-zzz-qqq/camping-gear-rental-vue)
+## 🔗 配套项目
+* 后端代码仓库：[点击这里跳转](https://github.com/1999zzz-qqq/Camping_gear_rental)
+
